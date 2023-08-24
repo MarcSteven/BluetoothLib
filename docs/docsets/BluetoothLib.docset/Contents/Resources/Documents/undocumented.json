@@ -1,0 +1,1902 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBAdvertisementData.swift",
+      "line": 11,
+      "symbol": "CBAdvertisementData",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBAdvertisementData.swift",
+      "line": 13,
+      "symbol": "CBAdvertisementData.getAdvertisementDataName(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBAdvertisementData.swift",
+      "line": 36,
+      "symbol": "CBAdvertisementData.getAdvertisementDataStringValue(_:key:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBCharacteristicPropertiesExtension.swift",
+      "line": 13,
+      "symbol": "CBCharacteristicProperties.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 18,
+      "symbol": "CBUUID.genericAccessUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 19,
+      "symbol": "CBUUID.genericAttributeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 20,
+      "symbol": "CBUUID.immediateAlertUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 21,
+      "symbol": "CBUUID.linkLossUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 22,
+      "symbol": "CBUUID.txPowerUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 23,
+      "symbol": "CBUUID.currentTimeServiceUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 24,
+      "symbol": "CBUUID.referenceTimeUpdateServiceUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 25,
+      "symbol": "CBUUID.nextDSTChangeServiceUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 26,
+      "symbol": "CBUUID.glucoseUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 27,
+      "symbol": "CBUUID.healthThermometerUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 28,
+      "symbol": "CBUUID.deviceInformationUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 29,
+      "symbol": "CBUUID.heartRateUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 30,
+      "symbol": "CBUUID.phoneAlertStatusServiceUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 31,
+      "symbol": "CBUUID.batterServiceUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 32,
+      "symbol": "CBUUID.bloodPressureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 33,
+      "symbol": "CBUUID.alertNotificationUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 34,
+      "symbol": "CBUUID.humanInterfaceDeviceUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 35,
+      "symbol": "CBUUID.scanParametersUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 36,
+      "symbol": "CBUUID.runningSpeedAndCadenceUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 37,
+      "symbol": "CBUUID.automationIOUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 38,
+      "symbol": "CBUUID.cyclingSpeedAndCadenceUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 39,
+      "symbol": "CBUUID.cyclingPowerUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 40,
+      "symbol": "CBUUID.locationAndNavigationUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 41,
+      "symbol": "CBUUID.environmentalSensingUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 42,
+      "symbol": "CBUUID.bodyCompositionUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 43,
+      "symbol": "CBUUID.userDataUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 44,
+      "symbol": "CBUUID.weightScaleUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 45,
+      "symbol": "CBUUID.bondManagementUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 46,
+      "symbol": "CBUUID.continuousGlucoseMonitoringUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 47,
+      "symbol": "CBUUID.internetProtocolSupportUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 48,
+      "symbol": "CBUUID.indoorPositioningUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 49,
+      "symbol": "CBUUID.pulseOximeterUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 50,
+      "symbol": "CBUUID.httpProxyUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 51,
+      "symbol": "CBUUID.transportDiscoveryUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 52,
+      "symbol": "CBUUID.objectTransferUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 53,
+      "symbol": "CBUUID.fitnessMachineUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 54,
+      "symbol": "CBUUID.meshProvisioningServiceUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 55,
+      "symbol": "CBUUID.meshProxyServiceUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 56,
+      "symbol": "CBUUID.reconnectionConfigurationUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 57,
+      "symbol": "CBUUID.insulinDeliveryUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 65,
+      "symbol": "CBUUID.deviceNameUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 66,
+      "symbol": "CBUUID.appearanceUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 67,
+      "symbol": "CBUUID.peripheralPrivacyFlagUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 68,
+      "symbol": "CBUUID.reconnectionAddressUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 69,
+      "symbol": "CBUUID.peripheralPreferredConnectionParametersUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 70,
+      "symbol": "CBUUID.serviceChangedUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 71,
+      "symbol": "CBUUID.alertLevelUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 72,
+      "symbol": "CBUUID.txPowerLevelUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 73,
+      "symbol": "CBUUID.dateTimeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 74,
+      "symbol": "CBUUID.dayOfWeekUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 75,
+      "symbol": "CBUUID.dayDateTimeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 76,
+      "symbol": "CBUUID.exactTime256UUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 77,
+      "symbol": "CBUUID.DSTOffsetUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 78,
+      "symbol": "CBUUID.timeZoneUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 79,
+      "symbol": "CBUUID.localTimeInformationUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 80,
+      "symbol": "CBUUID.timeWithDSTUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 81,
+      "symbol": "CBUUID.timeAccuracyUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 82,
+      "symbol": "CBUUID.timeSourceUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 83,
+      "symbol": "CBUUID.referenceTimeInformationUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 84,
+      "symbol": "CBUUID.timeUpdateControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 85,
+      "symbol": "CBUUID.timeUpdateStateUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 86,
+      "symbol": "CBUUID.glucoseMeasurementUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 87,
+      "symbol": "CBUUID.batteryLevelUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 88,
+      "symbol": "CBUUID.temperatureMeasurementUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 89,
+      "symbol": "CBUUID.temperatureTypeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 90,
+      "symbol": "CBUUID.intermediateTemperatureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 91,
+      "symbol": "CBUUID.measurementIntervalUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 92,
+      "symbol": "CBUUID.bootKeyboardInputReportUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 93,
+      "symbol": "CBUUID.systemIDUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 94,
+      "symbol": "CBUUID.modelNumberStringUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 95,
+      "symbol": "CBUUID.serialNumberStringUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 96,
+      "symbol": "CBUUID.firmwareRevisionStringUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 97,
+      "symbol": "CBUUID.hardwareRevisionStringUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 98,
+      "symbol": "CBUUID.softwareRevisionStringUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 99,
+      "symbol": "CBUUID.manufacturerNameStringUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 100,
+      "symbol": "CBUUID.IEEE11073_20601RegulatoryCertificationDataListUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 101,
+      "symbol": "CBUUID.currentTimeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 102,
+      "symbol": "CBUUID.magneticDeclinationUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 103,
+      "symbol": "CBUUID.scanRefreshUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 104,
+      "symbol": "CBUUID.bootKeyboardOutputReportUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 105,
+      "symbol": "CBUUID.bootMouseInputReportUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 106,
+      "symbol": "CBUUID.glucoseMeasurementContextUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 107,
+      "symbol": "CBUUID.bloodPressureMeasurementUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 108,
+      "symbol": "CBUUID.intermediateCuffPressureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 109,
+      "symbol": "CBUUID.heartRateMeasurementUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 110,
+      "symbol": "CBUUID.bodySensorLocationUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 111,
+      "symbol": "CBUUID.heartRateControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 112,
+      "symbol": "CBUUID.alertStatusUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 113,
+      "symbol": "CBUUID.ringerControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 114,
+      "symbol": "CBUUID.ringerSettingUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 115,
+      "symbol": "CBUUID.alertCategoryIDBitMaskUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 116,
+      "symbol": "CBUUID.alertCategoryIDUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 117,
+      "symbol": "CBUUID.alertNotificationControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 118,
+      "symbol": "CBUUID.unreadAlertStatusUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 119,
+      "symbol": "CBUUID.newAlertUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 120,
+      "symbol": "CBUUID.supportedNewAlertCategoryUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 121,
+      "symbol": "CBUUID.supportedUnreadAlertCategoryUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 122,
+      "symbol": "CBUUID.bloodPressureFeatureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 123,
+      "symbol": "CBUUID.HIDInformationUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 124,
+      "symbol": "CBUUID.reportMapUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 125,
+      "symbol": "CBUUID.HIDControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 126,
+      "symbol": "CBUUID.reportUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 127,
+      "symbol": "CBUUID.protocolModeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 128,
+      "symbol": "CBUUID.scanIntervalWindowUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 129,
+      "symbol": "CBUUID.PnPIDUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 130,
+      "symbol": "CBUUID.glucoseFeatureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 131,
+      "symbol": "CBUUID.recordAccessControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 132,
+      "symbol": "CBUUID.RSCMeasurementUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 133,
+      "symbol": "CBUUID.RSCFeatureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 134,
+      "symbol": "CBUUID.SCControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 135,
+      "symbol": "CBUUID.digitalUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 136,
+      "symbol": "CBUUID.analogUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 137,
+      "symbol": "CBUUID.aggregateUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 138,
+      "symbol": "CBUUID.CSCMeasurementUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 139,
+      "symbol": "CBUUID.CSCFeatureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 140,
+      "symbol": "CBUUID.sensorLocationUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 141,
+      "symbol": "CBUUID.PLXSpotCheckMeasurementUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 142,
+      "symbol": "CBUUID.PLXContinuousMeasurementUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 143,
+      "symbol": "CBUUID.PLXFeaturesUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 144,
+      "symbol": "CBUUID.cyclingPowerMeasurementUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 145,
+      "symbol": "CBUUID.cyclingPowerVectorUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 146,
+      "symbol": "CBUUID.cyclingPowerFeatureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 147,
+      "symbol": "CBUUID.cyclingPowerControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 148,
+      "symbol": "CBUUID.locationAndSpeedUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 149,
+      "symbol": "CBUUID.navigationUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 150,
+      "symbol": "CBUUID.positionQualityUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 151,
+      "symbol": "CBUUID.LNFeatureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 152,
+      "symbol": "CBUUID.LNControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 153,
+      "symbol": "CBUUID.elevationUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 154,
+      "symbol": "CBUUID.pressureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 155,
+      "symbol": "CBUUID.temperatureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 156,
+      "symbol": "CBUUID.humidityUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 157,
+      "symbol": "CBUUID.trueWindSpeedUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 158,
+      "symbol": "CBUUID.trueWindDirectionUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 159,
+      "symbol": "CBUUID.apparentWindSpeedUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 160,
+      "symbol": "CBUUID.apparentWindDirectionUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 161,
+      "symbol": "CBUUID.gustFactorUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 162,
+      "symbol": "CBUUID.pollenConcentrationUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 163,
+      "symbol": "CBUUID.UVIndexUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 164,
+      "symbol": "CBUUID.irradianceUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 165,
+      "symbol": "CBUUID.rainfallUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 166,
+      "symbol": "CBUUID.windChillUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 167,
+      "symbol": "CBUUID.heatIndexUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 168,
+      "symbol": "CBUUID.dewPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 169,
+      "symbol": "CBUUID.descriptorValueChangedUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 170,
+      "symbol": "CBUUID.aerobicHeartRateLowerLimitUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 171,
+      "symbol": "CBUUID.aerobicThresholdUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 172,
+      "symbol": "CBUUID.ageUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 173,
+      "symbol": "CBUUID.anaerobicHeartRateLowerLimitUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 174,
+      "symbol": "CBUUID.anaerobicHeartRateUpperLimitUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 175,
+      "symbol": "CBUUID.anaerobicThresholdUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 176,
+      "symbol": "CBUUID.aerobicHeartRateUpperLimitUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 177,
+      "symbol": "CBUUID.dateOfBirthUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 178,
+      "symbol": "CBUUID.dateOfThresholdAssessmentUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 179,
+      "symbol": "CBUUID.emailAddressUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 180,
+      "symbol": "CBUUID.fatHeartRateLowerLimitUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 181,
+      "symbol": "CBUUID.fatBurnHeartRateUpperLimitUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 182,
+      "symbol": "CBUUID.firstNameUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 183,
+      "symbol": "CBUUID.fiveZoneHeartRateLimitsUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 184,
+      "symbol": "CBUUID.genderUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 185,
+      "symbol": "CBUUID.heartRateMaxUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 186,
+      "symbol": "CBUUID.heightUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 187,
+      "symbol": "CBUUID.hipCircumferenceUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 188,
+      "symbol": "CBUUID.lastNameUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 189,
+      "symbol": "CBUUID.maximumRecommendedHeartRateUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 190,
+      "symbol": "CBUUID.restingHeartRateUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 191,
+      "symbol": "CBUUID.sportTypeforAerobicandAnaerobicThresholdsUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 192,
+      "symbol": "CBUUID.threeZoneHeartRateLimitsUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 193,
+      "symbol": "CBUUID.twoZoneHeartRateLimitUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 194,
+      "symbol": "CBUUID.VO2MaxUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 195,
+      "symbol": "CBUUID.waistCircumferenceUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 196,
+      "symbol": "CBUUID.weightUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 197,
+      "symbol": "CBUUID.databaseChangeIncrementUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 198,
+      "symbol": "CBUUID.userIndexUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 199,
+      "symbol": "CBUUID.bodyCompositionFeatureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 200,
+      "symbol": "CBUUID.bodyCompositionMeasurementUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 201,
+      "symbol": "CBUUID.weightMeasurementUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 202,
+      "symbol": "CBUUID.weightScaleFeatureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 203,
+      "symbol": "CBUUID.userControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 204,
+      "symbol": "CBUUID.magneticFluxDensity2DUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 205,
+      "symbol": "CBUUID.magneticFluxDensity3DUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 206,
+      "symbol": "CBUUID.languageUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 207,
+      "symbol": "CBUUID.barometricPressureTrendUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 208,
+      "symbol": "CBUUID.bondManagementControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 209,
+      "symbol": "CBUUID.bondManagementFeatureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 210,
+      "symbol": "CBUUID.centralAddressResolutionUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 211,
+      "symbol": "CBUUID.CGMMeasurementUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 212,
+      "symbol": "CBUUID.CGMFeatureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 213,
+      "symbol": "CBUUID.CGMStatusUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 214,
+      "symbol": "CBUUID.CGMSessionStartTimeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 215,
+      "symbol": "CBUUID.CGMSessionRunTimeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 216,
+      "symbol": "CBUUID.CGMSpecificOpsControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 217,
+      "symbol": "CBUUID.indoorPositioningConfigurationUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 218,
+      "symbol": "CBUUID.latitudeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 219,
+      "symbol": "CBUUID.longitudeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 220,
+      "symbol": "CBUUID.localNorthCoordinateUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 221,
+      "symbol": "CBUUID.localEastCoordinateUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 222,
+      "symbol": "CBUUID.floorNumberUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 223,
+      "symbol": "CBUUID.altitudeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 224,
+      "symbol": "CBUUID.uncertaintyUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 225,
+      "symbol": "CBUUID.locationNameUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 226,
+      "symbol": "CBUUID.URIUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 227,
+      "symbol": "CBUUID.HTTPHeadersUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 228,
+      "symbol": "CBUUID.HTTPStatusCodeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 229,
+      "symbol": "CBUUID.HTTPEntityBodyUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 230,
+      "symbol": "CBUUID.HTTPControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 231,
+      "symbol": "CBUUID.HTTPSSecurityUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 232,
+      "symbol": "CBUUID.TDSControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 233,
+      "symbol": "CBUUID.OTSFeatureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 234,
+      "symbol": "CBUUID.objectNameUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 235,
+      "symbol": "CBUUID.objectTypeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 236,
+      "symbol": "CBUUID.objectSizeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 237,
+      "symbol": "CBUUID.objectFirstCreatedUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 238,
+      "symbol": "CBUUID.objectLastModifiedUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 239,
+      "symbol": "CBUUID.objectIDUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 240,
+      "symbol": "CBUUID.objectPropertiesUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 241,
+      "symbol": "CBUUID.objectActionControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 242,
+      "symbol": "CBUUID.objectListControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 243,
+      "symbol": "CBUUID.objectListFilterUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 244,
+      "symbol": "CBUUID.objectChangedUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 245,
+      "symbol": "CBUUID.resolvablePrivateAddressOnlyUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 246,
+      "symbol": "CBUUID.fitnessMachineFeatureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 247,
+      "symbol": "CBUUID.treadmillDataUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 248,
+      "symbol": "CBUUID.crossTrainerDataUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 249,
+      "symbol": "CBUUID.stepClimberDataUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 250,
+      "symbol": "CBUUID.stairClimberDataUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 251,
+      "symbol": "CBUUID.rowerDataUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 252,
+      "symbol": "CBUUID.indoorBikeDataUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 253,
+      "symbol": "CBUUID.trainingStatusUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 254,
+      "symbol": "CBUUID.supportedSpeedRangeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 255,
+      "symbol": "CBUUID.supportedInclinationRangeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 256,
+      "symbol": "CBUUID.supportedResistanceLevelRangeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 257,
+      "symbol": "CBUUID.supportedHeartRateRangeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 258,
+      "symbol": "CBUUID.supportedPowerRangeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 259,
+      "symbol": "CBUUID.fitnessMachineControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 260,
+      "symbol": "CBUUID.fitnessMachineStatusUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 261,
+      "symbol": "CBUUID.dateUTCUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 262,
+      "symbol": "CBUUID.RCFeatureUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 263,
+      "symbol": "CBUUID.RCSettingsUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 264,
+      "symbol": "CBUUID.reconnectionConfigurationControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 265,
+      "symbol": "CBUUID.IDDStatusChangedUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 266,
+      "symbol": "CBUUID.IDDStatusUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 267,
+      "symbol": "CBUUID.IDDAnnunciationStatusUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 268,
+      "symbol": "CBUUID.IDDFeaturesUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 269,
+      "symbol": "CBUUID.IDDStatusReaderControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 270,
+      "symbol": "CBUUID.IDDCommandControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 271,
+      "symbol": "CBUUID.IDDCommandDataUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 272,
+      "symbol": "CBUUID.IDDRecordAccessControlPointUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 273,
+      "symbol": "CBUUID.IDDHistoryDataUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 281,
+      "symbol": "CBUUID.characteristicExtendedPropertiesUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 282,
+      "symbol": "CBUUID.characteristicUserDescriptionUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 283,
+      "symbol": "CBUUID.clientCharacteristicConfigurationUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 284,
+      "symbol": "CBUUID.serverCharacteristicConfigurationUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 285,
+      "symbol": "CBUUID.characteristicPresentationFormatUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 286,
+      "symbol": "CBUUID.characteristicAggregateFormatUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 287,
+      "symbol": "CBUUID.validRangeUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 288,
+      "symbol": "CBUUID.externalReportReferenceUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 289,
+      "symbol": "CBUUID.reportReferenceUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 290,
+      "symbol": "CBUUID.numberofDigitalsUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 291,
+      "symbol": "CBUUID.valueTriggerSettingUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 292,
+      "symbol": "CBUUID.environmentalSensingConfigurationUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 293,
+      "symbol": "CBUUID.environmentalSensingMeasurementUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 294,
+      "symbol": "CBUUID.environmentalSensingTriggerSettingUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/CBUDIDExtension.swift",
+      "line": 295,
+      "symbol": "CBUUID.timeTriggerSettingUUID",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/PeripheralNotificationKeys.swift",
+      "line": 13,
+      "symbol": "PeripheralNotificationKeys",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/PeripheralNotificationKeys.swift",
+      "line": 14,
+      "symbol": "PeripheralNotificationKeys.DisconnectNotif",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/marczhao/Documents/BluetoothLib/BluetoothLib/Source/PeripheralNotificationKeys.swift",
+      "line": 15,
+      "symbol": "PeripheralNotificationKeys.CharacteristicNotif",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/marczhao/Documents/BluetoothLib"
+}
